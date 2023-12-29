@@ -76,5 +76,5 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gharib110&" alt="dapperblondie" /></p>
 
-https://www.hackerrank.com/certificates/fae1c124e7e2
+<p><img align="center" src="https://www.hackerrank.com/certificates/fae1c124e7e2"dapperblondie" /></p>
 https://www.hackerrank.com/certificates/iframe/15e0aea5c8dd

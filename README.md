@@ -77,3 +77,5 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gharib110&" alt="dapperblondie" /></p>
 
 <a href="https://ibb.co/1dNdrQ6"><img src="https://i.ibb.co/1dNdrQ6/download-1.png" alt="download-1" border="0"></a>
+<a href="https://ibb.co/TcgstBw"><img src="https://i.ibb.co/TcgstBw/download-2.png" alt="download-2" border="0"></a>
+<a href="https://ibb.co/GcbxcSD"><img src="https://i.ibb.co/Ln2kn7y/download-3.png" alt="download-3" border="0"></a>

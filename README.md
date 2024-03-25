@@ -41,8 +41,6 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <br>
 
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/iPmart_network" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dapperblondie" height="30" width="40" /></a>

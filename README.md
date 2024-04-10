@@ -49,6 +49,10 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 <a href="https://discord.gg/****" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeus#3940" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1480px">
+</p>
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 

@@ -72,7 +72,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 </p>
 
 <p align="center">	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical" alt="ipmartnetwork's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&&show_icons=true&theme=radical" alt="ipmartnetwork's Github Stats">
 
 
 <div align="center">

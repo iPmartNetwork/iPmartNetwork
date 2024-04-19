@@ -52,32 +52,51 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 - **Shell Scripting**
 
 ---
+### 🛠 &nbsp;Languages and Tools :
+
+
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+
+<code><a href="https://www.azure.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/backyourstack/backyourstack-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg"></a></code>
+
+---
+
 <br>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/iPmart_network" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dapperblondie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali-hassanzadeh-63545a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeus" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dapperblondie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dapperblondie" height="30" width="40" /></a>
-<a href="https://discord.gg/****" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeus#3940" height="30" width="40" /></a>
-</p>
-
 <p align="center">
-  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/snake.svg" width="1480px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork" alt="Top Langs">
 </p>
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipmartnetwork&" alt="dapperblondie" /></p>
+<p align="center">	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical" alt="ipmartnetwork's Github Stats">
 
 
-<a href="https://ibb.co/T2Z7Y29"><img src="https://i.ibb.co/T2Z7Y29/download-7.png" alt="download-7" border="0"></a>
-<a href="https://ibb.co/1dNdrQ6"><img src="https://i.ibb.co/1dNdrQ6/download-1.png" alt="download-1" border="0"></a>
-<a href="https://ibb.co/TcgstBw"><img src="https://i.ibb.co/TcgstBw/download-2.png" alt="download-2" border="0"></a>
-<a href="https://ibb.co/GcbxcSD"><img src="https://i.ibb.co/GcbxcSD/download-3.png" alt="download-3" border="0"></a>
-<a href="https://ibb.co/r0VtZ4X"><img src="https://i.ibb.co/r0VtZ4X/download-4.png" alt="download-4" border="0"></a>
-<a href="https://ibb.co/6Wc1K0Y"><img src="https://i.ibb.co/6Wc1K0Y/download-5.png" alt="download-5" border="0"></a>
-<a href="https://ibb.co/1dNdrQ6"><img src="https://i.ibb.co/1dNdrQ6/download-1.png" alt="download-1" border="0"></a>
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/ali-hassanzadeh-63545a24a/" target="blank">
+  <img align="center" alt="sbatrow's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/iPmartNetwork/" target="blank">
+  <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/iPmartnetwork" target="blank">
+  <img align="center" alt="Sithum batrow's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://medium.com/@ipmartnetwork" target="blank">
+  <img align="center" alt="Sithum batrow's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a> 
+  <br/>
+  <br/>
+  Thanks for stopping by <br/>
+</p>
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbatrow%2F" /></p>

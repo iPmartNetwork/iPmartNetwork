@@ -14,7 +14,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipmartnetwork&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
+
 
 
 - 👨‍💻 My Personal Website [ipmart.shop](https://ipmart.shop)
@@ -96,3 +96,4 @@ I have started with C and C++ and have learned about algorithmic vision then I h
   Thanks for stopping by <br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbatrow%2F" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gharib110&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>

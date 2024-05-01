@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-<img width="620" height="350"  alt="XPanel" src="https://github.com/iPmartNetwork/iPmartnetwork/blob/main/iPmart.jpg">
+<img width="550" height="350"  alt="XPanel" src="https://github.com/iPmartNetwork/iPmartnetwork/blob/main/iPmart.jpg">
 </picture>
   </p> 
 </div>

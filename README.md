@@ -78,7 +78,8 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 </p>
 
 <p align="center">	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&&show_icons=true&theme=radical" alt="ipmartnetwork's Github Stats">
+
+	[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ipmartnetwork&show_icons=true)](https://github.com/ipmartnetwork/iPmartNetwork)
 
 
 <div align="center">

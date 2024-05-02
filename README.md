@@ -104,7 +104,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbatrow%2F" /></p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipmartnetwork&theme=vision_friendly_dark" alt="GitHub Summary Cards"/>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ipmartnetwork&show_icons=true)](https://github.com/ipmartnetwork/iPmartNetwork)
 	
 </p>
 <p align="center">

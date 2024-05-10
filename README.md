@@ -1,8 +1,6 @@
-<p align="center">
-<picture>
-<img width="826" height="438"  alt="XPanel" src="https://github.com/iPmartNetwork/iPmartnetwork/blob/main/ipmartleo.png">
-</picture>
-  </p> 
+![Header](./your-header-image-name.png)
+
+
 </div>
 <h1 align="center">Hi 👋, I'm Ali Hassanzadeh</h1>
 <h3 align="center">Software Engineer</h3>

@@ -74,7 +74,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 ![iPmartNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPmartNetwork&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&theme=transparent&hide_border=true&layout=compact)
 
-
+---
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 

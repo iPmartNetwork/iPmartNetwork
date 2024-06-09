@@ -71,12 +71,9 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <br>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork" alt="Top Langs">
-</p>
 
-<p align="center">	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&&show_icons=true&theme=transparent)" alt="ipmartnetwork's Github Stats">
+![iPmartNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPmartNetwork&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&theme=transparent&hide_border=true&layout=compact)
+
 
 
 <div align="center">
@@ -99,7 +96,6 @@ I have started with C and C++ and have learned about algorithmic vision then I h
   <br/>
   Thanks for stopping by <br/>
 </p>
-![iPmartNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPmartNetwork&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&theme=transparent&hide_border=true&layout=compact)
  
  
 <p align="center">

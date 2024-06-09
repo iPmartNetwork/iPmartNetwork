@@ -99,15 +99,8 @@ I have started with C and C++ and have learned about algorithmic vision then I h
   <br/>
   Thanks for stopping by <br/>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbatrow%2F" /></p>
-
-<p align="center">
+![iPmartNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPmartNetwork&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&theme=transparent&hide_border=true&layout=compact)
  
-	
-</p>
-<p align="center">
-<a href="https://info.flagcounter.com/jhrD"><img src="https://s11.flagcounter.com/count/jhrD/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
- </p> 
  
 <p align="center">
 <picture>

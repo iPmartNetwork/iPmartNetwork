@@ -96,7 +96,8 @@ I have started with C and C++ and have learned about algorithmic vision then I h
   <br/>
   Thanks for stopping by <br/>
 </p>
- 
+
+ ---
  
 <p align="center">
 <picture>

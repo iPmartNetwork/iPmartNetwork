@@ -1,6 +1,9 @@
 ![Header](./github-header-image.png)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1854AC&center=true&width=435&lines=%F0%9F%92%96++%D8%B3%D9%84%D8%A7%D9%85+%D8%A8%D9%87+%DA%AF%DB%8C%D8%AA+%D9%87%D8%A7%D8%A8+%D9%85%D9%86+%D8%AE%D9%88%D8%B4+%D8%A7%D9%85%D8%AF%DB%8C%D8%AF+%F0%9F%92%96;%D8%A7%DB%8C+%D9%BE%DB%8C%D9%85%D8%A7%D8%B1%D8%AA+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D9%87%D9%85%DB%8C%D8%B4%DA%AF%DB%8C+%D8%B4%D9%85%D8%A7%D8%B3%D8%AA+)](https://git.io/typing-svg)
+
+
 </div>
 <h1 align="center">Hi 👋, I'm Ali Hassanzadeh</h1>
 <h3 align="center">Software Engineer</h3>

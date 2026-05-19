@@ -78,9 +78,10 @@ func main() {
 
 ## Technical Arsenal
 
-<table>
+<div align="center">
+<table align="center" width="92%">
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="50%" valign="top">
       <strong>Languages</strong><br /><br />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -90,7 +91,7 @@ func main() {
       <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
     </td>
-    <td width="50%" valign="top">
+    <td align="center" width="50%" valign="top">
       <strong>Frontend</strong><br /><br />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
@@ -99,7 +100,7 @@ func main() {
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="50%" valign="top">
       <strong>Networking & Infrastructure</strong><br /><br />
       <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" />
       <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
@@ -107,7 +108,7 @@ func main() {
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
     </td>
-    <td width="50%" valign="top">
+    <td align="center" width="50%" valign="top">
       <strong>Backend & Data</strong><br /><br />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -116,6 +117,7 @@ func main() {
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -163,11 +165,11 @@ func main() {
 ## Featured Work
 
 <div align="center">
-  <table>
+  <table align="center" width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td align="center" width="50%" valign="top">
         <h3>
-          <a href="https://github.com/iPmartNetwork/iPWGDashboard">iPWGDashboard</a>
+          <strong><a href="https://github.com/iPmartNetwork/iPWGDashboard">iPWGDashboard</a></strong>
         </h3>
         <p>WireGuard dashboard focused on easier VPN operations, visibility, and day-to-day management.</p>
         <p>
@@ -176,15 +178,39 @@ func main() {
           <img src="https://img.shields.io/badge/Operations-0d1117?style=flat-square" alt="Operations" />
         </p>
       </td>
-      <td width="50%" valign="top">
+      <td align="center" width="50%" valign="top">
         <h3>
-          <a href="https://github.com/iPmartNetwork/Install-MikroTik-CHR">Install-MikroTik-CHR</a>
+          <strong><a href="https://github.com/iPmartNetwork/Install-MikroTik-CHR">Install-MikroTik-CHR</a></strong>
         </h3>
         <p>Automation for MikroTik CHR setup, helping infrastructure get online faster and more consistently.</p>
         <p>
           <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" />
           <img src="https://img.shields.io/badge/CHR-00b4d8?style=flat-square" alt="CHR" />
           <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square" alt="Automation" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <h3>
+          <strong><a href="https://github.com/iPmartNetwork/BirdX">BirdX</a></strong>
+        </h3>
+        <p>A fork of Songbird focused on active development, extra capabilities, and a stronger user experience.</p>
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Songbird%20Fork-00b4d8?style=flat-square" alt="Songbird fork" />
+          <img src="https://img.shields.io/badge/Product%20Development-0d1117?style=flat-square" alt="Product development" />
+        </p>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <h3>
+          <strong><a href="https://github.com/iPmartNetwork/Veltrix">Veltrix</a></strong>
+        </h3>
+        <p>Intelligent network control for x-ui, V2Ray outbound monitoring, server health, alerts, and licensing.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/V2Ray-00b4d8?style=flat-square" alt="V2Ray" />
+          <img src="https://img.shields.io/badge/Monitoring-0d1117?style=flat-square" alt="Monitoring" />
         </p>
       </td>
     </tr>
@@ -254,4 +280,3 @@ jobs:
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003566,50:0096c7,100:00b4d8&height=90&section=footer&animation=fadeIn" width="100%" alt="Footer wave" />
 </div>
-

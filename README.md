@@ -1,108 +1,191 @@
-![Header](./github-header-image.png)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1f2d,60:0a3d55,100:00d4ff&height=280&section=header&text=Ali%20%22Zeus%22%20Hassanzadeh&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Network%20Architect%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=62&descColor=94d8f5&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
+</div>
 
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1854AC&center=true&width=435&lines=Hi+%2C+iam+Ali+hassanzadeh;+Welcome+to+my+GitHub+page!;Wish+you+have+a+great+day!)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=560&lines=Designing+resilient+network+infrastructure;WireGuard+%7C+MikroTik+CHR+%7C+VPN+Tunneling;Golang+backends+%2B+distributed+systems;Automating+everything+with+Shell+%26+Python)](https://git.io/typing-svg)
 
 </div>
-<h1 align="center">Hi 👋, I'm Ali Hassanzadeh</h1>
-<h3 align="center">Software Engineer</h3>
-<h4 align="Justify"> Passionate and Motivated
-A spontaneous programmer in learning, active and disciplined in learning and teaching new
-technologies and trying to up to date.<br>
-I have started with C and C++ and have learned about algorithmic vision then I have met Java and have been working on it and Spring Core & Kotlin for 2 years and have learned about software engineering and design patterns; <br> Currently working on Machine Learning Algorithms, Unreal Engine & Web Dev.
-</h6>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
-
-
-<br>
-
-
-
-
-- 👨‍💻 My Personal Website [ipmart.shop](https://ipmart.shop)
-
-- 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://www.linkedin.com/in/ali-hassanzadeh-63545a24a/)
-
-- 🤩 My HackerRank Profile [link](https://www.hackerrank.com/profile/hassanzadehali10)
-
-- 💬 Ask me about **Golang, NodeJs, Java, Python, Linux, C++ and more**
-
-- 📫 How to reach me **info@ipmart.shop** and **hassanzadehali10@gmail.com**
-
-
--  Take a look at my telegram channel if you are a Geek [Invite Link](https://t.me/ipmartpanel) 😃
-
--  I am not programming for money, that's a humble goal. I am programming because **I LOVE IT, LIVE FOR IT**
-
-## Ask me about :computer: 
-- **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
-
-- **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
-- **Shell Scripting**
-
----
-### 🛠 &nbsp;Languages and Tools :
-
-
-
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-
-<code><a href="https://www.azure.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/backyourstack/backyourstack-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg"></a></code>
+<br/>
 
 ---
 
-<br>
+## ◈ The Engineer
 
+```go
+package main
 
-![iPmartNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPmartNetwork&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&theme=transparent&hide_border=true&layout=compact)
+type Zeus struct {
+    Name        string   `json:"name"`
+    Role        []string `json:"role"`
+    Location    string   `json:"location"`
+    CurrentWork []string `json:"current_work"`
+    Contact     string   `json:"contact"`
+    Philosophy  string   `json:"philosophy"`
+}
+
+func main() {
+    me := Zeus{
+        Name:     "Ali Hassanzadeh",
+        Role:     []string{"Network Engineer", "Backend Developer", "OSS Contributor"},
+        Location: "Iran 🇮🇷",
+        CurrentWork: []string{
+            "WireGuard VPN dashboards (iPWGDashboard)",
+            "MikroTik CHR automation & scripting",
+            "Distributed backend systems in Go",
+        },
+        Contact:    "info@ipmart.shop",
+        Philosophy: "I don't code for money — I code because it's who I am.",
+    }
+    _ = me
+}
+```
+
+---
+
+## ◈ Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Web & Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Networking & Infrastructure**
+
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Backend & Data**
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iPmartNetwork&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff8c42&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iPmartNetwork&bg_color=0d1117&color=00d4ff&line=0077b6&point=00d4ff&area=true&area_color=0077b620&hide_border=true&radius=6" width="95%"/>
+</div>
+
+---
+
+## ◈ Featured Work
+
+<div align="center">
+
+[![iPWGDashboard](https://github-readme-stats.vercel.app/api/pin/?username=iPmartNetwork&repo=iPWGDashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&description_lines_count=2)](https://github.com/iPmartNetwork/iPWGDashboard)&nbsp;&nbsp;[![Install-MikroTik-CHR](https://github-readme-stats.vercel.app/api/pin/?username=iPmartNetwork&repo=Install-MikroTik-CHR&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff)](https://github.com/iPmartNetwork/Install-MikroTik-CHR)
+
+</div>
+
+---
+
+## ◈ Contribution Map
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iPmartNetwork/iPmartNetwork/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iPmartNetwork/iPmartNetwork/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/iPmartNetwork/iPmartNetwork/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</picture>
+</div>
+
+> **Note:** To enable the snake animation, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   snake:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: iPmartNetwork
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## ◈ Reach Out
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/ipmart.shop-0d1117?style=for-the-badge&logo=safari&logoColor=00d4ff&labelColor=0d1117)](https://ipmart.shop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117)](https://linkedin.com/in/hassanzadehali)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117)](https://t.me/iPmartNetwork)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0d1117)](https://hackerrank.com/iPmartNetwork)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:info@ipmart.shop)
+
+</div>
 
 ---
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-<p align="center">
- <a href="https://www.linkedin.com/in/ali-hassanzadeh-63545a24a/" target="blank">
-  <img align="center" alt="sbatrow's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/iPmartNetwork/" target="blank">
-  <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/iPmartnetwork" target="blank">
-  <img align="center" alt="Sithum batrow's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://medium.com/@ipmartnetwork" target="blank">
-  <img align="center" alt="Sithum batrow's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
-  <br/>
-  <br/>
-  Thanks for stopping by <br/>
-</p>
 
- ---
- 
-<p align="center">
-<picture>
-<img width="160" height="160"  alt="XPanel" src="https://github.com/iPmartNetwork/iPmart-SSH/blob/main/images/logo.png">
-</picture>
-  </p> 
+<sub>
+<img src="https://komarev.com/ghpvc/?username=iPmartNetwork&color=0d1117&style=flat-square&label=visitors" alt="visitors"/>
+&nbsp;·&nbsp;
+Built with precision · Powered by curiosity · Fueled by coffee ☕
+</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0077b6,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>

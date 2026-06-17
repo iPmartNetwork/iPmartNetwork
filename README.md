@@ -135,12 +135,12 @@ BirdX.Chat     ██████████░░░░░░░  active
 <div align="center">
 
 ![Repositories](https://img.shields.io/badge/Repositories-145%2B-00B4D8?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/Focus-Networking%20%26%20Tunnels-7209B7?style=for-the-badge&labelColor=0D1117)
-![Since](https://img.shields.io/badge/Active%20Since-2023-00B4D8?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/Focus-Networking_and_Tunnels-7209B7?style=for-the-badge&labelColor=0D1117)
+![Since](https://img.shields.io/badge/Active_Since-2023-00B4D8?style=for-the-badge&labelColor=0D1117)
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Builder-7209B7?style=for-the-badge&labelColor=0D1117)
-![Stack](https://img.shields.io/badge/Stack-Go%20%C2%B7%20Python%20%C2%B7%20Linux-00B4D8?style=for-the-badge&labelColor=0D1117)
-![Infra](https://img.shields.io/badge/Infra-WireGuard%20%C2%B7%20MikroTik-7209B7?style=for-the-badge&labelColor=0D1117)
+![Open Source](https://img.shields.io/badge/Open_Source-Builder-7209B7?style=for-the-badge&labelColor=0D1117)
+![Stack](https://img.shields.io/badge/Stack-Go_Python_Linux-00B4D8?style=for-the-badge&labelColor=0D1117)
+![Infra](https://img.shields.io/badge/Infra-WireGuard_MikroTik-7209B7?style=for-the-badge&labelColor=0D1117)
 
 </div>
 

@@ -34,45 +34,62 @@
 ---
 
 <!-- ===================== TERMINAL INTRO ===================== -->
-```ansi
-[36m┌─[ zeus@ipmart-noc ]─────────────────────────────────────────[0m
-[36m│[0m  $ whoami
-[32m│[0m  > Ali (Zeus) — Network Architect & Backend Engineer
-[36m│[0m  $ cat ./mission.txt
-[37m│[0m  > Reliable tunnels, observable systems, fast recovery.
-[36m│[0m  $ uptime --focus
-[33m│[0m  > WireGuard · MikroTik CHR · Reverse Tunneling · Go backends
-[36m└─────────────────────────────────────────────────────────────[0m
+```bash
+┌─[ zeus@ipmart-noc ]─────────────────────────────────────────
+│  $ whoami
+│  > Ali (Zeus) — Network Architect & Backend Engineer
+│  $ cat ./mission.txt
+│  > Reliable tunnels, observable systems, fast recovery.
+│  $ uptime --focus
+│  > WireGuard · MikroTik CHR · Reverse Tunneling · Go backends
+└─────────────────────────────────────────────────────────────
 ```
 
 <!-- ===================== LIVE STACK ===================== -->
 ## ◢ Live Stack
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
-**`core/`**
-```text
-● Go            ████████████░  primary
-● Python        █████████░░░░  automation
-● Bash          ████████░░░░░  ops
-```
+<table>
+<tr><th align="left">&nbsp;📦&nbsp; core/ — daily drivers&nbsp;</th></tr>
+<tr><td>
+
+<pre>
+Go       ███████████████░░░  primary
+Python   ████████████░░░░░░  automation
+Bash     █████████░░░░░░░░░  scripting
+</pre>
+
+</td></tr>
+</table>
 
 </td>
-<td valign="top" width="50%">
+<td width="48"></td>
+<td valign="top">
 
-**`latest/`  — shipping now**
-```text
-▸ VortexUI      ██████████░░░  active dev
-▸ RatholePro    ████████████░  active dev
-▸ TunnelMaster  █████████░░░░  active dev
-▸ BirdX.Chat    ████████░░░░░  active dev
-```
+<table>
+<tr><th align="left">&nbsp;🚀&nbsp; latest/ — shipping now&nbsp;</th></tr>
+<tr><td>
+
+<pre>
+VortexUI       ████████████░░░░░  active
+RatholePro     █████████████████  active
+TunnelMaster   ████████████░░░░░  active
+BirdX.Chat     ██████████░░░░░░░  active
+</pre>
+
+</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -81,8 +98,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=00B4D8&text_color=8B949E&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iPmartNetwork&hide_border=true&background=0D1117&stroke=00B4D8&ring=7209B7&fire=7209B7&currStreakLabel=00B4D8&sideLabels=8B949E&dates=8B949E"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=00B4D8&text_color=8B949E&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iPmartNetwork&hide_border=true&background=0D1117&stroke=00B4D8&ring=7209B7&fire=7209B7&currStreakNum=00B4D8&sideNums=00B4D8&currStreakLabel=00B4D8&sideLabels=8B949E&dates=8B949E"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iPmartNetwork&bg_color=0D1117&color=00B4D8&line=7209B7&point=ffffff&area=true&hide_border=true&custom_title=Packet%20Flow%20%2F%20Contribution%20Throughput" width="100%"/>
 
@@ -117,7 +134,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iPmartNetwork&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+![Repositories](https://img.shields.io/badge/Repositories-145%2B-00B4D8?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/Focus-Networking%20%26%20Tunnels-7209B7?style=for-the-badge&labelColor=0D1117)
+![Since](https://img.shields.io/badge/Active%20Since-2023-00B4D8?style=for-the-badge&labelColor=0D1117)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Builder-7209B7?style=for-the-badge&labelColor=0D1117)
+![Stack](https://img.shields.io/badge/Stack-Go%20%C2%B7%20Python%20%C2%B7%20Linux-00B4D8?style=for-the-badge&labelColor=0D1117)
+![Infra](https://img.shields.io/badge/Infra-WireGuard%20%C2%B7%20MikroTik-7209B7?style=for-the-badge&labelColor=0D1117)
 
 </div>
 

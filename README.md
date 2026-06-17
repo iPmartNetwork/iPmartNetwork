@@ -98,12 +98,11 @@ BirdX.Chat     ██████████░░░░░░░  active
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=00B4D8&text_color=8B949E&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iPmartNetwork&hide_border=true&background=0D1117&stroke=00B4D8&ring=7209B7&fire=7209B7&currStreakNum=00B4D8&sideNums=00B4D8&currStreakLabel=00B4D8&sideLabels=8B949E&dates=8B949E"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iPmartNetwork&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&icon_color=00B4D8&text_color=8B949E&count_private=true"/>
+&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iPmartNetwork&hide_border=true&background=0D1117&stroke=00B4D8&ring=7209B7&fire=7209B7&currStreakNum=00B4D8&sideNums=00B4D8&currStreakLabel=00B4D8&sideLabels=8B949E&dates=8B949E"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iPmartNetwork&bg_color=0D1117&color=00B4D8&line=7209B7&point=ffffff&area=true&hide_border=true&custom_title=Packet%20Flow%20%2F%20Contribution%20Throughput" width="100%"/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=8B949E&langs_count=8&hide_title=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iPmartNetwork&bg_color=0D1117&color=00B4D8&line=7209B7&point=ffffff&area=true&hide_border=true&custom_title=Packet%20Flow%20%2F%20Contribution%20Throughput" width="98%"/>
 
 </div>
 
@@ -141,6 +140,17 @@ focus:          Networking · Reverse Tunnels · VPN Operations
 stack:          Go · Python · Linux · Bash
 infra:          WireGuard · MikroTik CHR · Nginx
 ```
+
+---
+
+<!-- ===================== LANGUAGE MIX ===================== -->
+## ◢ Language Distribution
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPmartNetwork&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=8B949E&langs_count=8&hide_title=true"/>
+
+</div>
 
 ---
 

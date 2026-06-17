@@ -132,17 +132,15 @@ BirdX.Chat     ██████████░░░░░░░  active
 <!-- ===================== ACHIEVEMENTS ===================== -->
 ## ◢ Uptime Record
 
-<div align="center">
-
-![Repositories](https://img.shields.io/badge/Repositories-145%2B-00B4D8?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/Focus-Networking_and_Tunnels-7209B7?style=for-the-badge&labelColor=0D1117)
-![Since](https://img.shields.io/badge/Active_Since-2023-00B4D8?style=for-the-badge&labelColor=0D1117)
-
-![Open Source](https://img.shields.io/badge/Open_Source-Builder-7209B7?style=for-the-badge&labelColor=0D1117)
-![Stack](https://img.shields.io/badge/Stack-Go_Python_Linux-00B4D8?style=for-the-badge&labelColor=0D1117)
-![Infra](https://img.shields.io/badge/Infra-WireGuard_MikroTik-7209B7?style=for-the-badge&labelColor=0D1117)
-
-</div>
+```yaml
+node:           iPmartNetwork
+status:         online · active since 2023
+repositories:   145+
+role:           Network Architect · Open Source Builder
+focus:          Networking · Reverse Tunnels · VPN Operations
+stack:          Go · Python · Linux · Bash
+infra:          WireGuard · MikroTik CHR · Nginx
+```
 
 ---
 
